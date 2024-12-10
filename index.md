@@ -4,7 +4,7 @@ This is my home page! My name is Quinn Nguyen and I am a student at [Cal State F
 
 ## Computer Science Projects
 
-My GitHub page is (http://github.com/QuinnNg09).
+My GitHub page is http://github.com/QuinnNg09.
 
 ### CPSC 120
 
